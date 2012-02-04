@@ -16,7 +16,7 @@
    width="1052.3625"
    height="744.09497"
    xml:space="preserve"
-   sodipodi:docname="cheat-cube-de.svg"
+   sodipodi:docname="arch-linux-cheat-cube_de.svg"
    inkscape:export-filename="/home/david/Desktop/arch-linux-cheat-cube.png"
    inkscape:export-xdpi="200.05511"
    inkscape:export-ydpi="200.05511"><metadata
@@ -2923,8 +2923,8 @@
      showgrid="false"
      inkscape:document-units="cm"
      inkscape:zoom="2"
-     inkscape:cx="424.59546"
-     inkscape:cy="524.24148"
+     inkscape:cx="836.58239"
+     inkscape:cy="389.95266"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
@@ -3935,6 +3935,8 @@
 
 
 
+
+
 <g
    transform="matrix(0.27543602,0,0,-0.27543602,444.79328,533.59809)"
    id="layer1"
@@ -4118,6 +4120,8 @@
 
 
 
+
+
 <text
    xml:space="preserve"
    style="font-size:8.25130367px;font-style:normal;font-weight:normal;fill:#87cdde;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono"
@@ -4128,6 +4132,8 @@
      id="tspan2640"
      x="237.70116"
      y="313.69965">TM</tspan></text>
+
+
 
 
 
@@ -4165,6 +4171,8 @@
      id="tspan8240"
      x="136.39987"
      y="-226.77161">NETZWERK</tspan></text>
+
+
 
 
 
@@ -4228,6 +4236,8 @@
 
 
 
+
+
 <text
    xml:space="preserve"
    style="font-size:5.5999999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
@@ -4245,6 +4255,8 @@
    id="tspan4147">man</tspan><tspan
    style="font-style:italic;-inkscape-font-specification:Monospace Italic"
    id="tspan4143"> Befehl</tspan> für weitere Informationen auf </tspan></text>
+
+
 
 
 
@@ -4314,6 +4326,8 @@
 
 
 
+
+
 <text
    xml:space="preserve"
    style="font-size:5.5999999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Monospace;-inkscape-font-specification:Monospace"
@@ -4329,6 +4343,8 @@
      style="font-size:5.5999999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace">Rufe <tspan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
    id="tspan4193">man</tspan> Befehl für weitere Informationen auf </tspan></text>
+
+
 
 
 
@@ -4394,6 +4410,8 @@
 
 
 
+
+
 <text
    xml:space="preserve"
    style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
@@ -4407,6 +4425,8 @@
      y="-228.77209"
      style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8453-4">SYSTEM UND MONITOR</tspan></text>
+
+
 
 
 
@@ -4475,6 +4495,8 @@
 
 
 
+
+
 <text
    xml:space="preserve"
    style="font-size:4.80000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
@@ -4488,19 +4510,24 @@
      x="631.08496"
      y="-224.93332">*benutze <tspan
    style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
-   id="tspan3914">pacman</tspan> mit <tspan
+   id="tspan3914">pacman</tspan> als root oder mit <tspan
    style="font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Bitstream Vera Sans Bold"
-   id="tspan8505">sudo, yaourt<tspan
-   style="font-weight:normal;-inkscape-font-specification:Bitstream Vera Sans"
-   id="tspan3912"> als nicht </tspan></tspan></tspan><tspan
+   id="tspan8505">sudo, </tspan></tspan><tspan
      sodipodi:role="line"
      x="631.08496"
      y="-218.93332"
-     id="tspan3916"><tspan
-       style="font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Bitstream Vera Sans Bold"
-       id="tspan3918"><tspan
-         style="font-weight:normal;-inkscape-font-specification:Bitstream Vera Sans"
-         id="tspan3920"> privilegierter Benutzer</tspan></tspan></tspan></text>
+     id="tspan3916"
+     style="font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Bitstream Vera Sans Bold"> yaourt<tspan
+   style="font-weight:normal;-inkscape-font-specification:Bitstream Vera Sans"
+   id="tspan3912"> als nicht privilegierter Benutzer</tspan></tspan><tspan
+     sodipodi:role="line"
+     x="631.08496"
+     y="-212.93332"
+     id="tspan13524">Siehe auch: <tspan
+   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   id="tspan13539">man</tspan> pacman.conf/makepkg</tspan></text>
+
+
 
 
 
@@ -4544,6 +4571,8 @@
      y="-46.71534"
      style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8499-0" /></text>
+
+
 
 
 
@@ -4616,6 +4645,8 @@
 
 
 
+
+
 <text
    xml:space="preserve"
    style="font-size:5.5999999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Monospace;-inkscape-font-specification:Monospace"
@@ -4656,6 +4687,8 @@
 
 
 
+
+
 <text
    xml:space="preserve"
    style="font-size:6.4000001px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Monospace"
@@ -4669,31 +4702,36 @@
      y="-375.42966"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"><tspan
    style="font-style:normal;font-weight:bold;-inkscape-font-specification:Monospace"
-   id="tspan3863">sudo</tspan> Befehl   führt Befehl als root aus   </tspan><tspan
+   id="tspan3863">sudo</tspan> Befehl  führt Befehl als root aus</tspan><tspan
      sodipodi:role="line"
      x="282.26459"
      y="-367.42966"
+     style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+     id="tspan13543">   [Paket Core: sudo]   </tspan><tspan
+     sodipodi:role="line"
+     x="282.26459"
+     y="-359.42966"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8677"><tspan
    style="font-style:normal;font-weight:bold;-inkscape-font-specification:Monospace"
    id="tspan3861">sudo</tspan> -k  Löscht Passwort-Zwischenspeicher</tspan><tspan
      sodipodi:role="line"
      x="282.26459"
-     y="-359.42966"
+     y="-351.42966"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8679"><tspan
    style="font-style:normal;font-weight:bold;-inkscape-font-specification:Monospace"
    id="tspan3859">sudo</tspan> visudo  bearbeitet /etc/sudoers</tspan><tspan
      sodipodi:role="line"
      x="282.26459"
-     y="-351.42966"
+     y="-343.42966"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8683"><tspan
    style="font-style:normal;font-weight:bold;-inkscape-font-specification:Monospace"
    id="tspan3857">passwd</tspan>  ändert das Passwort des Benutzers</tspan><tspan
      sodipodi:role="line"
      x="282.26459"
-     y="-343.42966"
+     y="-335.42966"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8685"><tspan
    style="font-style:normal;font-weight:bold;-inkscape-font-specification:Monospace"
@@ -4704,28 +4742,23 @@
    id="tspan4163">:</tspan>Gruppe Datei</tspan>  ändert </tspan><tspan
      sodipodi:role="line"
      x="282.26459"
-     y="-335.42966"
+     y="-327.42966"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8687">   Eigentümer und Gruppe einer Datei</tspan><tspan
      sodipodi:role="line"
      x="282.26459"
-     y="-327.42966"
-     style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan8689"><tspan
-   style="font-style:normal;font-weight:bold;-inkscape-font-specification:Monospace"
-   id="tspan3853">chmod</tspan> Rechte<tspan
-   style="font-style:italic;-inkscape-font-specification:Monospace Italic"
-   id="tspan4165"> Datei </tspan></tspan><tspan
-     sodipodi:role="line"
-     x="282.26459"
      y="-319.42966"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan8691">   ändert Dateirechte</tspan><tspan
+     id="tspan8691"><tspan
+   style="font-style:normal;font-weight:bold;-inkscape-font-specification:Monospace"
+   id="tspan3853">chmod</tspan><tspan
+   style="font-style:italic;-inkscape-font-specification:Monospace Italic"
+   id="tspan8851"> Rechte Datei  </tspan>ändert Dateirechte</tspan><tspan
      sodipodi:role="line"
      x="282.26459"
      y="-311.42966"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan8705">   Oktaler Modus: </tspan><tspan
+     id="tspan8705">   Rechte im oktalen Modus setzen: </tspan><tspan
      sodipodi:role="line"
      x="282.26459"
      y="-303.42966"
@@ -4785,6 +4818,8 @@
 
 
 
+
+
 <text
    xml:space="preserve"
    style="font-size:6.4000001px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
@@ -4812,7 +4847,7 @@
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8924"><tspan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="tspan3903">df</tspan>  zeigt Nutzung des Dateisystems</tspan><tspan
+   id="tspan3903">df </tspan>-h  zeigt Nutzung des Dateisystems</tspan><tspan
      sodipodi:role="line"
      x="455.09531"
      y="-351.57339"
@@ -4831,7 +4866,7 @@
      x="455.09531"
      y="-335.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan4205"> [Paket core: procinfo-ng]</tspan><tspan
+     id="tspan4205"> [Paket Core: procinfo-ng]</tspan><tspan
      sodipodi:role="line"
      x="455.09531"
      y="-327.57339"
@@ -4857,57 +4892,60 @@
      x="455.09531"
      y="-303.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan8946">/etc/rc.d/D<tspan
+     id="tspan8946"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   id="tspan8827">rc.d</tspan> start <tspan
    style="font-style:italic;-inkscape-font-specification:Monospace Italic"
-   id="tspan4236">aemon</tspan> start  startet Daemon</tspan><tspan
+   id="tspan8839">Daemon</tspan>  startet Daemon</tspan><tspan
      sodipodi:role="line"
      x="455.09531"
      y="-295.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan8948">/etc/rc.d/D<tspan
+     id="tspan8948"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   id="tspan8829">rc.d</tspan> stop <tspan
    style="font-style:italic;-inkscape-font-specification:Monospace Italic"
-   id="tspan4242">aemon</tspan> stop  stoppt Daemon</tspan><tspan
+   id="tspan8841">Daemon </tspan> stoppt Daemon</tspan><tspan
      sodipodi:role="line"
      x="455.09531"
      y="-287.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan8950">/etc/rc.d/D<tspan
+     id="tspan32925"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   id="tspan8831">rc.d</tspan> restart <tspan
    style="font-style:italic;-inkscape-font-specification:Monospace Italic"
-   id="tspan4244">aemon</tspan> restart   startet Daemon </tspan><tspan
+   id="tspan8843">Daemon</tspan>  startet Daemon erneut </tspan><tspan
      sodipodi:role="line"
      x="455.09531"
      y="-279.57339"
-     style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan32925">    erneut</tspan><tspan
-     sodipodi:role="line"
-     x="455.09531"
-     y="-271.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8952"><tspan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
    id="tspan3895">shutdown</tspan> -h now  Fährt System herunter</tspan><tspan
      sodipodi:role="line"
      x="455.09531"
-     y="-263.57339"
+     y="-271.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8962"><tspan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
    id="tspan3893">shutdown</tspan> -r now  Startet System neu</tspan><tspan
      sodipodi:role="line"
      x="455.09531"
-     y="-255.57339"
+     y="-263.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8958" /><tspan
      sodipodi:role="line"
      x="455.09531"
-     y="-247.57339"
+     y="-255.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8936" /><tspan
      sodipodi:role="line"
      x="455.09531"
-     y="-239.57339"
+     y="-247.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8928" /></text>
+
+
 
 
 
@@ -5090,6 +5128,8 @@
 
 
 
+
+
 <text
    xml:space="preserve"
    style="font-size:6.4000001px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
@@ -5103,7 +5143,7 @@
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8707-5"><tspan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="tspan3851">ifconfig</tspan>  zeigt Netzwerkinformationen</tspan><tspan
+   id="tspan3851">ip </tspan>a   zeigt Netzwerkinformationen</tspan><tspan
      sodipodi:role="line"
      x="109.09531"
      y="-368.77338"
@@ -5122,17 +5162,29 @@
      x="109.09531"
      y="-352.77338"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan3977">/etc/rc.d/network ifup interface</tspan><tspan
+     id="tspan3977"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   id="tspan8793">ip</tspan> l set <tspan
+   style="font-style:italic;-inkscape-font-specification:Monospace Italic"
+   id="tspan8795">interface </tspan>up  startet interface</tspan><tspan
      sodipodi:role="line"
      x="109.09531"
      y="-344.77338"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan3979">/etc/rc.d/network ifdown interface</tspan><tspan
+     id="tspan3979"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   id="tspan8801">ip</tspan> l set <tspan
+   style="font-style:italic;-inkscape-font-specification:Monospace Italic"
+   id="tspan8803">interface</tspan> down  stoppt interface</tspan><tspan
      sodipodi:role="line"
      x="109.09531"
      y="-336.77338"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan4003">/etc/rc.d/iptables {start|stop|restart}</tspan><tspan
+     id="tspan4003"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   id="tspan8823">rc.d</tspan> {start|stop|restart} <tspan
+   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   id="tspan8825">iptables</tspan></tspan><tspan
      sodipodi:role="line"
      x="109.09531"
      y="-328.77338"
@@ -5144,7 +5196,7 @@
      x="109.09531"
      y="-320.77338"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan4207">   [Paket community: ufw]]</tspan><tspan
+     id="tspan4207">   [Paket Community: ufw]]</tspan><tspan
      sodipodi:role="line"
      x="109.09531"
      y="-312.77338"
@@ -5223,6 +5275,8 @@
 
 
 
+
+
 <text
    xml:space="preserve"
    style="font-size:6.4000001px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans;-inkscape-font-specification:Monospace"
@@ -5236,21 +5290,27 @@
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8928-6"><tspan
    style="font-style:normal;font-weight:bold;-inkscape-font-specification:Monospace"
-   id="tspan3929">pacman</tspan> -Si Paket  zeigt Paketinformationen </tspan><tspan
+   id="tspan3929">pacman</tspan> -Si <tspan
+   style="font-style:italic;-inkscape-font-specification:Monospace Italic"
+   id="tspan8859">Paket</tspan>  zeigt Paketinformationen </tspan><tspan
      sodipodi:role="line"
      x="628.29535"
      y="-367.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan3809"><tspan
    style="font-style:normal;font-weight:bold;-inkscape-font-specification:Monospace"
-   id="tspan3927">pacman</tspan> -S Paket  installiert das Paket</tspan><tspan
+   id="tspan3927">pacman</tspan> -S <tspan
+   style="font-style:italic;-inkscape-font-specification:Monospace Italic"
+   id="tspan8861">Paket[e]</tspan>  installiert Paket[e]</tspan><tspan
      sodipodi:role="line"
      x="628.29535"
      y="-359.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan3773"><tspan
    style="font-style:normal;font-weight:bold;-inkscape-font-specification:Monospace"
-   id="tspan3923">pacman</tspan> -Rns Paket  löscht das Paket, seine</tspan><tspan
+   id="tspan3923">pacman</tspan> -Rns <tspan
+   style="font-style:italic;-inkscape-font-specification:Monospace Italic"
+   id="tspan8863">Paket</tspan>  löscht das Paket, seine</tspan><tspan
      sodipodi:role="line"
      x="628.29535"
      y="-351.57339"
@@ -5278,14 +5338,16 @@
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan3781"><tspan
    style="font-style:normal;font-weight:bold;-inkscape-font-specification:Monospace"
-   id="tspan3917">pacman</tspan> -Q Paket  zeigt installierte Pakete</tspan><tspan
+   id="tspan3917">pacman</tspan> -Q  zeigt installierte Pakete</tspan><tspan
      sodipodi:role="line"
      x="628.29535"
      y="-319.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan3785"><tspan
    style="font-style:normal;font-weight:bold;-inkscape-font-specification:Monospace"
-   id="tspan3915">pacman</tspan> -Ql Paket  zeigt Dateien des Pakets</tspan><tspan
+   id="tspan3915">pacman</tspan> -Ql <tspan
+   style="font-style:italic;-inkscape-font-specification:Monospace Italic"
+   id="tspan8867">Paket</tspan>  zeigt Dateien des Pakets</tspan><tspan
      sodipodi:role="line"
      x="628.29535"
      y="-311.57339"
@@ -5325,21 +5387,26 @@
      x="628.29535"
      y="-271.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan3932"><tspan
-   style="font-style:normal;font-weight:bold;-inkscape-font-specification:Monospace"
-   id="tspan3928">yaourt</tspan> -Syu --aur  aktualisiert offizielle </tspan><tspan
+     id="tspan13541">   [Paket AUR: yaourt]</tspan><tspan
      sodipodi:role="line"
      x="628.29535"
      y="-263.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan4294">und inoffizielle Pakete aus dem AUR</tspan><tspan
+     id="tspan3932"><tspan
+   style="font-style:normal;font-weight:bold;-inkscape-font-specification:Monospace"
+   id="tspan3928">yaourt</tspan> -Syua  aktualisiert offizielle </tspan><tspan
      sodipodi:role="line"
      x="628.29535"
      y="-255.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan3815">Siehe auch <tspan
-   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="tspan4304">man</tspan> pacman.conf/makepkg</tspan></text>
+     id="tspan4294">und inoffizielle Pakete aus dem AUR</tspan><tspan
+     sodipodi:role="line"
+     x="628.29535"
+     y="-247.57339"
+     style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+     id="tspan3815" /></text>
+
+
 
 
 
@@ -5382,6 +5449,8 @@
      id="tspan32917"><tspan
    style="font-size:16px;text-align:start;text-anchor:start;fill:#1793d1;fill-opacity:1"
    id="tspan32919">    elblogdepicodev.blogspot.com</tspan>        </tspan></text>
+
+
 
 
 
@@ -5467,8 +5536,9 @@
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-383"
-   d="m 142.01456,374.61063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
-   style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" /><path
+   d="m 127.21456,375.01063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+   inkscape:connector-curvature="0" /><path
    id="path4442-2-37"
    d="m 142.01456,366.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
@@ -5498,24 +5568,27 @@
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-5"
-   d="m 328.41456,374.61063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 326.41456,374.61063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-925"
-   d="m 312.01456,366.61063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
-   style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" /><path
+   d="m 312.01456,358.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+   inkscape:connector-curvature="0" /><path
    id="path4442-2-99"
-   d="m 327.21456,358.61063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
-   style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" /><path
+   d="m 327.21456,350.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+   inkscape:connector-curvature="0" /><path
    id="path4442-2-93"
-   d="m 308.01456,350.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
-   style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" /><path
+   d="m 308.01456,341.81063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+   inkscape:connector-curvature="0" /><path
    id="path4442-2-70"
-   d="m 396.01456,342.61063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 396.01456,334.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-997"
-   d="m 354.01456,326.61063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 354.01456,318.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-31"
@@ -5525,7 +5598,7 @@
    d="m 488.41456,366.61063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" /><path
    id="path4442-2-58"
-   d="m 464.41456,359.01063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 476.41456,358.61063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-06"
@@ -5541,23 +5614,23 @@
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-645"
-   d="m 541.61456,302.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 522.41456,302.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-94"
-   d="m 538.81456,294.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 518.41456,294.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-037"
-   d="m 550.41456,285.81063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 530.41456,285.81063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-604"
-   d="m 514.81456,270.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 514.81456,278.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-609"
-   d="m 514.81456,262.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 514.81456,270.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-74"
@@ -5565,7 +5638,7 @@
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-80"
-   d="m 688.41456,366.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 698.81456,366.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-43"
@@ -5581,7 +5654,7 @@
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-646"
-   d="m 689.21456,326.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 665.21456,326.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-97"
@@ -5597,7 +5670,7 @@
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-247"
-   d="m 696.41456,269.81063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 677.21456,262.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><text
    xml:space="preserve"
@@ -5611,6 +5684,8 @@
      x="685.10571"
      y="-14.142102"
      style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace">Estellt mit Inkscape und GIMP</tspan></text>
+
+
 
 
 
@@ -5646,7 +5721,7 @@
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-997-8"
-   d="m 336.81456,270.61063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 335.61456,269.81063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><image
    y="-60.39996"
@@ -5685,4 +5760,16 @@
        height="90.5"
        x="277.5"
        y="587.09497" /></flowRegion><flowPara
-     id="flowPara4346" /></flowRoot></g></svg>
+     id="flowPara4346" /></flowRoot><path
+   id="path4442-2-65-6"
+   d="m 191.21456,351.81063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+   inkscape:connector-curvature="0" /><path
+   id="path4442-2-65-6-3"
+   d="m 200.41456,343.41063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+   inkscape:connector-curvature="0" /><path
+   inkscape:connector-curvature="0"
+   d="m 259.2162,209.99996 223.1676,0"
+   style="fill:none;stroke:#4e2f20;stroke-width:0.50999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-opacity:1;stroke-dasharray:none;display:inline"
+   id="path3543-2" /></g></svg>
