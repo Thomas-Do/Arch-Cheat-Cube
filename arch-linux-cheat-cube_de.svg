@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3411"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.4 r9939"
    width="1052.3625"
    height="744.09497"
    xml:space="preserve"
@@ -2918,15 +2918,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="742"
+     inkscape:window-height="741"
      id="namedview3413"
      showgrid="false"
      inkscape:document-units="cm"
      inkscape:zoom="2"
-     inkscape:cx="836.58239"
-     inkscape:cy="389.95266"
+     inkscape:cx="264.75365"
+     inkscape:cy="151.42661"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="g3421"
      showguides="true"
@@ -3937,6 +3937,7 @@
 
 
 
+
 <g
    transform="matrix(0.27543602,0,0,-0.27543602,444.79328,533.59809)"
    id="layer1"
@@ -4122,6 +4123,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:8.25130367px;font-style:normal;font-weight:normal;fill:#87cdde;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono"
@@ -4132,6 +4134,7 @@
      id="tspan2640"
      x="237.70116"
      y="313.69965">TM</tspan></text>
+
 
 
 
@@ -4171,6 +4174,7 @@
      id="tspan8240"
      x="136.39987"
      y="-226.77161">NETZWERK</tspan></text>
+
 
 
 
@@ -4238,6 +4242,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:5.5999999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
@@ -4255,6 +4260,7 @@
    id="tspan4147">man</tspan><tspan
    style="font-style:italic;-inkscape-font-specification:Monospace Italic"
    id="tspan4143"> Befehl</tspan> für weitere Informationen auf </tspan></text>
+
 
 
 
@@ -4328,6 +4334,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:5.5999999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Monospace;-inkscape-font-specification:Monospace"
@@ -4343,6 +4350,7 @@
      style="font-size:5.5999999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace">Rufe <tspan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
    id="tspan4193">man</tspan> Befehl für weitere Informationen auf </tspan></text>
+
 
 
 
@@ -4412,6 +4420,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
@@ -4425,6 +4434,7 @@
      y="-228.77209"
      style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8453-4">SYSTEM UND MONITOR</tspan></text>
+
 
 
 
@@ -4470,6 +4480,7 @@
      y="-222.83725"
      style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8499" /></text>
+
 
 
 
@@ -4553,6 +4564,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
@@ -4571,6 +4583,7 @@
      y="-46.71534"
      style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8499-0" /></text>
+
 
 
 
@@ -4647,6 +4660,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:5.5999999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Monospace;-inkscape-font-specification:Monospace"
@@ -4662,6 +4676,7 @@
      style="font-size:5.5999999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace">Rufe <tspan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
    id="tspan4306">man</tspan> Befehl für weitere Informationen auf </tspan></text>
+
 
 
 
@@ -4714,7 +4729,7 @@
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8677"><tspan
    style="font-style:normal;font-weight:bold;-inkscape-font-specification:Monospace"
-   id="tspan3861">sudo</tspan> -k  Löscht Passwort-Zwischenspeicher</tspan><tspan
+   id="tspan3861">sudo</tspan> -k  löscht Passwort-Zwischenspeicher</tspan><tspan
      sodipodi:role="line"
      x="282.26459"
      y="-351.42966"
@@ -4820,13 +4835,15 @@
 
 
 
+
 <text
    xml:space="preserve"
-   style="font-size:6.4000001px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+   style="font-size:6.4000001px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
    x="455.09531"
    y="-375.57339"
    id="text8669-3"
-   transform="scale(1,-1)"><tspan
+   transform="scale(1,-1)"
+   sodipodi:linespacing="125%"><tspan
      sodipodi:role="line"
      x="455.09531"
      y="-375.57339"
@@ -4893,57 +4910,63 @@
      y="-303.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8946"><tspan
-   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="tspan8827">rc.d</tspan> start <tspan
-   style="font-style:italic;-inkscape-font-specification:Monospace Italic"
-   id="tspan8839">Daemon</tspan>  startet Daemon</tspan><tspan
+   style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+   id="tspan4122">systemctl</tspan> start <tspan
+   style="font-size:6.4000001px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace Italic"
+   id="tspan4120">Service</tspan>  startet Daemon</tspan><tspan
      sodipodi:role="line"
      x="455.09531"
      y="-295.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8948"><tspan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="tspan8829">rc.d</tspan> stop <tspan
+   id="tspan4124">systemctl</tspan> stop <tspan
    style="font-style:italic;-inkscape-font-specification:Monospace Italic"
-   id="tspan8841">Daemon </tspan> stoppt Daemon</tspan><tspan
+   id="tspan4126">Service</tspan>  stoppt Daemon </tspan><tspan
      sodipodi:role="line"
      x="455.09531"
      y="-287.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan32925"><tspan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="tspan8831">rc.d</tspan> restart <tspan
+   id="tspan4130">systemctl</tspan> restart <tspan
    style="font-style:italic;-inkscape-font-specification:Monospace Italic"
-   id="tspan8843">Daemon</tspan>  startet Daemon erneut </tspan><tspan
+   id="tspan4132">Service</tspan>  startet Daemon </tspan><tspan
      sodipodi:role="line"
      x="455.09531"
      y="-279.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan8952"><tspan
-   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="tspan3895">shutdown</tspan> -h now  Fährt System herunter</tspan><tspan
+     id="tspan4134">erneut </tspan><tspan
      sodipodi:role="line"
      x="455.09531"
      y="-271.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan8962"><tspan
+     id="tspan8952"><tspan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="tspan3893">shutdown</tspan> -r now  Startet System neu</tspan><tspan
+   id="tspan3895">shutdown</tspan> -h now  fährt System herunter</tspan><tspan
      sodipodi:role="line"
      x="455.09531"
      y="-263.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan8958" /><tspan
+     id="tspan8962"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
+   id="tspan3893">shutdown</tspan> -r now  startet System neu</tspan><tspan
      sodipodi:role="line"
      x="455.09531"
      y="-255.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
-     id="tspan8936" /><tspan
+     id="tspan8958" /><tspan
      sodipodi:role="line"
      x="455.09531"
      y="-247.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
+     id="tspan8936" /><tspan
+     sodipodi:role="line"
+     x="455.09531"
+     y="-239.57339"
+     style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8928" /></text>
+
 
 
 
@@ -5130,6 +5153,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:6.4000001px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
@@ -5251,6 +5275,7 @@
      y="-256.77338"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan4001">   Datenübertragung von der IP-Adresse</tspan></text>
+
 
 
 
@@ -5430,6 +5455,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:16px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -5449,6 +5475,7 @@
      id="tspan32917"><tspan
    style="font-size:16px;text-align:start;text-anchor:start;fill:#1793d1;fill-opacity:1"
    id="tspan32919">    elblogdepicodev.blogspot.com</tspan>        </tspan></text>
+
 
 
 
@@ -5614,23 +5641,23 @@
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-645"
-   d="m 522.41456,302.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 546.41456,302.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-94"
-   d="m 518.41456,294.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 542.41456,294.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-037"
-   d="m 530.41456,285.81063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 554.41456,285.81063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-604"
-   d="m 514.81456,278.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 514.81456,270.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-609"
-   d="m 514.81456,270.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
+   d="m 514.81456,262.21063 0,3.38933 0,3.38933 1.98545,-1.69466 1.98543,-1.69467 -1.98543,-1.69466 -1.98544,-1.69467 z"
    style="fill:#1793d1;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
    inkscape:connector-curvature="0" /><path
    id="path4442-2-74"
@@ -5684,6 +5711,7 @@
      x="685.10571"
      y="-14.142102"
      style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace">Estellt mit Inkscape und GIMP</tspan></text>
+
 
 
 
