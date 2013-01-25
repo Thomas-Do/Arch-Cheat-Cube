@@ -2923,7 +2923,7 @@
      showgrid="false"
      inkscape:document-units="cm"
      inkscape:zoom="2"
-     inkscape:cx="264.75365"
+     inkscape:cx="498.36983"
      inkscape:cy="151.42661"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -3938,6 +3938,7 @@
 
 
 
+
 <g
    transform="matrix(0.27543602,0,0,-0.27543602,444.79328,533.59809)"
    id="layer1"
@@ -4124,6 +4125,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:8.25130367px;font-style:normal;font-weight:normal;fill:#87cdde;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono"
@@ -4134,6 +4136,7 @@
      id="tspan2640"
      x="237.70116"
      y="313.69965">TM</tspan></text>
+
 
 
 
@@ -4174,6 +4177,7 @@
      id="tspan8240"
      x="136.39987"
      y="-226.77161">NETZWERK</tspan></text>
+
 
 
 
@@ -4243,6 +4247,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:5.5999999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
@@ -4260,6 +4265,7 @@
    id="tspan4147">man</tspan><tspan
    style="font-style:italic;-inkscape-font-specification:Monospace Italic"
    id="tspan4143"> Befehl</tspan> für weitere Informationen auf </tspan></text>
+
 
 
 
@@ -4335,6 +4341,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:5.5999999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Monospace;-inkscape-font-specification:Monospace"
@@ -4350,6 +4357,7 @@
      style="font-size:5.5999999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace">Rufe <tspan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
    id="tspan4193">man</tspan> Befehl für weitere Informationen auf </tspan></text>
+
 
 
 
@@ -4421,6 +4429,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
@@ -4434,6 +4443,7 @@
      y="-228.77209"
      style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8453-4">SYSTEM UND MONITOR</tspan></text>
+
 
 
 
@@ -4480,6 +4490,7 @@
      y="-222.83725"
      style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8499" /></text>
+
 
 
 
@@ -4565,6 +4576,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:9.60000038px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
@@ -4611,6 +4623,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:4.80000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Monospace;-inkscape-font-specification:Monospace"
@@ -4626,13 +4639,10 @@
      sodipodi:role="line"
      x="284.94205"
      y="-40.730946"
-     id="tspan3922">der Option <tspan
+     id="tspan4310">der Option <tspan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
-   id="tspan4334">-f</tspan></tspan><tspan
-     sodipodi:role="line"
-     x="284.94205"
-     y="-34.730946"
-     id="tspan4310">Option</tspan></text>
+   id="tspan4334">-f</tspan></tspan></text>
+
 
 
 
@@ -4676,6 +4686,7 @@
      style="font-size:5.5999999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace">Rufe <tspan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
    id="tspan4306">man</tspan> Befehl für weitere Informationen auf </tspan></text>
+
 
 
 
@@ -4836,6 +4847,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:6.4000001px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
@@ -4966,6 +4978,7 @@
      y="-239.57339"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan8928" /></text>
+
 
 
 
@@ -5154,6 +5167,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:6.4000001px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
@@ -5275,6 +5289,7 @@
      y="-256.77338"
      style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace"
      id="tspan4001">   Datenübertragung von der IP-Adresse</tspan></text>
+
 
 
 
@@ -5456,6 +5471,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:16px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -5475,6 +5491,7 @@
      id="tspan32917"><tspan
    style="font-size:16px;text-align:start;text-anchor:start;fill:#1793d1;fill-opacity:1"
    id="tspan32919">    elblogdepicodev.blogspot.com</tspan>        </tspan></text>
+
 
 
 
@@ -5711,6 +5728,7 @@
      x="685.10571"
      y="-14.142102"
      style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace">Estellt mit Inkscape und GIMP</tspan></text>
+
 
 
 
